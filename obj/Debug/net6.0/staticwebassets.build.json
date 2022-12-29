@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PngCrtgTq/13QyuSEU0gsjuk3YMQO73YI/l8v7UwKQc=",
+  "Hash": "ldrgXS2pwEveQ5pSgr9JX5//zj52jL0jS3HyZ0L2y6o=",
   "Source": "Travel2",
   "BasePath": "_content/Travel2",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Meerim\\source\\repos\\Travel2\\wwwroot\\js\\JavaScript.js",
+      "SourceId": "Travel2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Meerim\\source\\repos\\Travel2\\wwwroot\\",
+      "BasePath": "_content/Travel2",
+      "RelativePath": "js/JavaScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
     },
     {
       "Identity": "C:\\Users\\Meerim\\source\\repos\\Travel2\\wwwroot\\js\\site.js",

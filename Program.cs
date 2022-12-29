@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Travel2.Models.Domain;
+using Travel2.Models;
 using Travel2.Repositories.Abstract;
 using Travel2.Repositories.Implementation;
 

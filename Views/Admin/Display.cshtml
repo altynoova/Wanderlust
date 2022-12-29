@@ -1,4 +1,29 @@
-﻿
-@{
-}
-Welcom, admin! Thi page accessible to the only admin
+﻿@model List<Travel2.Models.Tour>
+<h1>Book List</h1>
+<table class="table">
+<thead>
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Email</th>
+		<th>Phone number</th>
+		<th>Type of tour</th>
+		<th>Message</th>
+		<th>Date of tour</th>	
+	</tr>
+</thead>
+<tbody>
+	@foreach(var book in Model){
+		<tr>
+			<td>@book.Id</td>
+			<td>@book.UserName</td>
+			<td>@book.Usermail</td>
+			<td>@book.PhoneNumber</td>
+			<td>@book.TypeOfTour</td>
+			<td>@book.Message</td>
+			<td>@book.DateOfTour</td>
+			<td><a asp-action="Delete" asp-controller="Admin" asp-route-id =@book.Id>Delete</a></td>
+		</tr>
+	}
+</tbody>
+</table>	

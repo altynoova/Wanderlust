@@ -9,5 +9,6 @@ namespace Travel2.Models.Domain
         {
 
         }
+        public DbSet<Tour> Tours { get; set; }
     }
 }

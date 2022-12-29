@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lu4eW+nJcvCO2UlSLtEoPKdQGRZjEHB+MqPYFkmNt8hg51jDnw2dVRhzTIThSqWjShsovLmOrCK0AyfIMnHt+g==",
+  "dgSpecHash": "UlW6xs4kVP4sfzjqqkEBrUObodtUNn0uwSZnEfyOIdQxcLN5CeHH7q3BMMG1K4wRCTxwfvmTqaI4o34G7IGYQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Meerim\\source\\repos\\Travel2\\Travel2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Meerim\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
@@ -134,6 +135,7 @@
     "C:\\Users\\Meerim\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Meerim\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Meerim\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",

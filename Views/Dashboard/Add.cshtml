@@ -1,0 +1,23 @@
+﻿@model Travel2.Models.Book
+   
+<form method="post" action="Add">
+  <div class="mb-3">
+    <label for="" class="form-label">Name</label>
+    <input type="text" class="form-control" asp-for="UserName">
+    <label for="" class="form-label">Email</label>
+    <input type="email" class="form-control" asp-for="Usermail">
+    <label for="" class="form-label">Phone number</label>
+    <input type="text" class="form-control" asp-for="PhoneNumber">
+    <label for="" class="form-label">Tour name</label>
+    <input type="text" class="form-control" asp-for="TypeOfTour">
+    <label for="" class="form-label">Message</label>
+    <input type="text" class="form-control" asp-for="Message">
+    <label for="" class="form-label">Date</label>
+    <input type="date" class="form-control" asp-for="DateOfTour">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+@if (TempData["Success"] != null)
+{
+ <p class="alert alert-success" id="successMessage">@TempData["Success"]</p>
+}
